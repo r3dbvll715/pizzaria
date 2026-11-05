@@ -219,3 +219,4 @@ export const PIZZERIA_INFO = {
   freeDeliveryThreshold: 20.00,
   averagePrepTime: '25-35 min'
 };
+

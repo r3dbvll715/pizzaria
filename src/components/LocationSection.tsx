@@ -107,3 +107,4 @@ export const LocationSection: React.FC = () => {
     </section>
   );
 };
+

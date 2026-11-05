@@ -322,3 +322,4 @@ export const CheckoutModal: React.FC = () => {
     </div>
   );
 };
+
